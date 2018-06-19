@@ -1,6 +1,6 @@
 #Centivizer Tech Hack 
 
-Application that prevent elders from dementia
+A web application responsible for helping people with memory loss and cognitive inactivity in people that are aging using a reward-based system of activities.
 
 
 
